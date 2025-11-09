@@ -1,0 +1,10 @@
+transmisor_id,puntos_inicial,fuera_rango,segmentos_imposibles,puntos_eliminados_velocidad,puntos_final,velocidad_max_detectada
+241136,173,1,2,2,170,199.01
+241137,86,1,2,2,83,97.89
+241138,56,1,0,0,55,5.82
+241139,125,0,1,1,124,96.61
+241140,96,0,3,3,93,125.02
+241141,95,0,3,3,92,181.01
+241142,69,0,1,1,68,222.09
+241143,85,1,1,1,83,56.52
+TOTAL,785,4,13,13,768,222.09
