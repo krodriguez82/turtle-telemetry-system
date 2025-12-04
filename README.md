@@ -1,4 +1,4 @@
-# 🐢 Sistema de Procesamiento de Telemetría Satelital de Tortugas Marinas
+# 🐢 Modelo de Procesamiento de Telemetría Satelital de Tortugas Marinas
 
 Sistema de procesamiento y visualización de datos de telemetría satelital para el monitoreo y seguimiento de tortugas marinas en las costas del Pacífico de Panamá.
 
